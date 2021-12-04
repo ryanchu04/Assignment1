@@ -110,7 +110,18 @@ If this section grows too long, you may want to split it off into a separate fil
      - https://www.flaticon.com/
      - https://www.stickpng.com/
      - https://icon-icons.com/
-- 
+- Pictures used
+     - https://picsart.com/i/169660538001202
+     - https://shopksi.com/
+     - https://www.theguardian.com/music/2020/may/17/ksi-money-gravitates-towards-me
+     - https://www.gq-magazine.co.uk/culture/article/ksi-interview-2021
+     - https://www.nme.com/news/music/ksi-made-7million-cryptocurrency-then-lost-all-2996649
+     - https://www.thesun.ie/tech/7423019/ksi-roblox-event-time-date-all-over-the-place-party/
+     - https://www.businessinsider.com/the-most-popular-youtuber-stars-in-the-world
+     - https://www.pinterest.com/pin/559501953682802362/
+     - https://www.sportbible.com/boxing/news-youtuber-ksi-hits-back-at-the-pauls-saying-he-will-only-fight-jake-20180208
+     - https://www.reddit.com/r/ksi/comments/isyfkl/i_just_realized_jj_changes_his_name_to_jj/
+
 
 ### Acknowledgements
 
